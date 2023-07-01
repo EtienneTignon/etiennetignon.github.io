@@ -608,6 +608,7 @@
       deck: null,
       lore: 'https://en.wikipedia.org/wiki/Kamala_Khan'
     }
+    /*
     {
       id: "37",
       name: "Black Widow",
@@ -686,5 +687,6 @@
       deck: null,
       lore: ''
     }
+    */
   ]
 };
