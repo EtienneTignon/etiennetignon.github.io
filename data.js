@@ -608,7 +608,7 @@
       deck: null,
       lore: 'https://en.wikipedia.org/wiki/Kamala_Khan'
     }
-    /*
+    
     {
       id: "37",
       name: "Black Widow",
@@ -616,7 +616,7 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/4YvCpuvREaU"
       }],
       set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
@@ -629,7 +629,7 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/3cIPViTdsnQ"
       }],
       set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
@@ -642,7 +642,7 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/DrluaIQtAvc"
       }],
       set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
@@ -655,7 +655,7 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/4Nw6pdTepN4"
       }],
       set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
@@ -668,7 +668,7 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/FxczZKOimG8"
       }],
       set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
@@ -681,12 +681,12 @@
       minis: [""],
       desc: "",
       guides: [{
-        name: "Baked Goods", url: ""
+        name: "Baked Goods", url: "https://youtu.be/U4bP5UtCw00"
       }],
       set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
       lore: ''
     }
-    */
+    
   ]
 };
