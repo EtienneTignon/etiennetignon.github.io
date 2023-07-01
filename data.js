@@ -610,79 +610,79 @@
     }
     {
       id: "37",
-      name: "",
+      name: "Black Widow",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
       lore: ''
     }
     {
       id: "38",
-      name: "",
+      name: "Black Panther",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
       lore: ''
     }
     {
       id: "39",
-      name: "",
+      name: "Winter Soldier",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
       lore: ''
     }
     {
       id: "40",
-      name: "",
+      name: "She-Hulk",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
       lore: ''
     }
     {
       id: "41",
-      name: "",
+      name: "Dr. Strange",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
       lore: ''
     }
     {
       id: "42",
-      name: "",
+      name: "Spider-Man",
       back: "",
       minis: [""],
       desc: "",
       guides: [{
         name: "Baked Goods", url: ""
       }],
-      set: ["", ""],
+      set: ["Brains and Brawn", "https://boardgamegeek.com/boardgame/383467/unmatched-brains-and-brawn"],
       deck: null,
       lore: ''
     }
