@@ -607,22 +607,23 @@
       set: ["Teen Spirit", "https://boardgamegeek.com/boardgame/326936/unmatched-teen-spirit"],
       deck: null,
       lore: 'https://en.wikipedia.org/wiki/Kamala_Khan'
-    }
-    
+    },
     {
       id: "37",
       name: "Black Widow",
-      back: "",
-      minis: [""],
-      desc: "",
+      back: "https://i.imgur.com/eoWZcBx.png",
+      minis: ["https://i.imgur.com/N3yfxfL.png"],
+      desc: "lorem ipsum",
+      ability: "lorem ipsum",
       guides: [{
         name: "Baked Goods", url: "https://youtu.be/4YvCpuvREaU"
       }],
       set: ["For King and Country", "https://boardgamegeek.com/boardgame/326937/unmatched-king-and-country"],
       deck: null,
-      lore: ''
+      lore: 'https://en.wikipedia.org/wiki/Black_Widow_(Marvel_Comics)'
     }
-    {
+    /*
+    ,{
       id: "38",
       name: "Black Panther",
       back: "",
@@ -635,7 +636,7 @@
       deck: null,
       lore: ''
     }
-    {
+    ,{
       id: "39",
       name: "Winter Soldier",
       back: "",
@@ -648,7 +649,7 @@
       deck: null,
       lore: ''
     }
-    {
+    ,{
       id: "40",
       name: "She-Hulk",
       back: "",
@@ -661,7 +662,7 @@
       deck: null,
       lore: ''
     }
-    {
+    ,{
       id: "41",
       name: "Dr. Strange",
       back: "",
@@ -674,7 +675,7 @@
       deck: null,
       lore: ''
     }
-    {
+    ,{
       id: "42",
       name: "Spider-Man",
       back: "",
@@ -687,6 +688,6 @@
       deck: null,
       lore: ''
     }
-    
+    */
   ]
 };
