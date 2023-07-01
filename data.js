@@ -608,5 +608,83 @@
       deck: null,
       lore: 'https://en.wikipedia.org/wiki/Kamala_Khan'
     }
+    {
+      id: "37",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
+    {
+      id: "38",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
+    {
+      id: "39",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
+    {
+      id: "40",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
+    {
+      id: "41",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
+    {
+      id: "42",
+      name: "",
+      back: "",
+      minis: [""],
+      desc: "",
+      guides: [{
+        name: "Baked Goods", url: ""
+      }],
+      set: ["", ""],
+      deck: null,
+      lore: ''
+    }
   ]
 };
